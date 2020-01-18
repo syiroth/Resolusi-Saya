@@ -3,5 +3,9 @@ Syiroth Resolusi
 - membuat project dengan laravel
 - Kuasai java sript
 - kuasai react js
+- buat website pakai react js
+- belajar flutter
+- belajar postgresql
+- belajar jaringan
 - kuasai wordpress
 - buat website wordpress
